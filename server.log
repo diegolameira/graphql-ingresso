@@ -1,0 +1,204 @@
+yarn run v1.3.2
+$ nodemon --inspect -w src --exec "babel-node src --presets es2015,stage-0"
+[33m[nodemon] 1.14.3[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /projects/ingresso/components/graphql/src/**/*[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/cc5635ae-a15c-42ce-a730-a09f230a1e5c
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/2b17c1fe-22bd-44cd-b3a1-a98653f74b2f
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+-1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/41af5f73-f3ad-4d44-9e14-2b030bdc7195
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/b47fbd9e-23e3-4a0a-8968-e1d259e97138
+For help see https://nodejs.org/en/docs/inspector
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/b20bf49c-4b5c-42dd-8ad5-30a0198efb20
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/a8225abe-1ede-44c4-8e05-c087022bfc75
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/3030fd21-f2db-459b-8d8f-a43848fa5d29
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/203d607e-a785-497e-a94a-086482f4fee4
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/e3a72593-610a-4255-9a62-1107a147f4c9
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/6d57c3f8-424a-4aab-b583-7129324198de
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/02dd77d2-2b06-458d-b533-e7e924762634
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/6deda1aa-a52d-4a66-993b-7c4507e4f134
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/5868efaa-5dbb-4683-8711-b92ca1b9b888
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `babel-node src --presets es2015,stage-0 --inspect`[39m
+Debugger listening on ws://127.0.0.1:9229/6f8ae7cf-e390-45e3-bc50-8c6367732880
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+yeah, we did it! :3
+
+########################################
+express listening to port 46331
+----------------------------------------
+you can access locally through
+http://localhost:46331
+########################################
+
